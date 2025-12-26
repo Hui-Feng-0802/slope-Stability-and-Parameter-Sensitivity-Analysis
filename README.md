@@ -1,0 +1,2 @@
+This code is an integrated quantitative analysis program for calculating the stability of earthen slopes and assessing the sensitivity of slope stability to the physical and mechanical properties of the soil mass itself, based on the theory of limit equilibrium.
+Users only need to input the slope profile DXF file and the slope surface coordinate points CSV file, and then set the physical and mechanical parameters for calculation.
